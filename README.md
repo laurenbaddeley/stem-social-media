@@ -5,10 +5,12 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's stem-command-centre
+  Gatsby's stem-social-media
 </h1>
 
 This project was kickstarted with the hello-world boilerplate. It included the main Gatsby configuration files needed to get up and running blazing fast with the blazing fast app generator for React.
+
+This project was created for my STEM volunteering initiative at my last company. This site works with the stem-command-centre site. The purpose of this stem-social-media site is for students to understand that they should be careful about what they put on social media. For instance, they should not put private information that anyone can see, and they should be careful about what information they give to quiz sites. 
 
 ## 🚀 Quick start
 
@@ -28,7 +30,7 @@ This project was kickstarted with the hello-world boilerplate. It included the m
     Navigate into your new site’s directory and start it up.
 
     ```sh
-    cd stem-command-centre/
+    cd stem-social-media/
     gatsby develop
     ```
 
@@ -38,7 +40,7 @@ This project was kickstarted with the hello-world boilerplate. It included the m
 
     _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
 
-    Open the `stem-command-centre` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
+    Open the `stem-social-media` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
 
 ## 🧐 What's inside?
 
