@@ -1,0 +1,54 @@
+{
+  "name": "stem-social-media",
+  "private": true,
+  "description": "Dummy social media page for highlighting password security and social engineering",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write src/**/*.{js,jsx}",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+  },
+  "dependencies": {
+    "@emotion/core": "^10.1.1",
+    "bootstrap": "^4.6.0",
+    "gatsby": "^2.32.13",
+    "gatsby-background-image": "^0.8.19",
+    "gatsby-plugin-emotion": "^4.5.0",
+    "gatsby-plugin-manifest": "^2.4.37",
+    "gatsby-plugin-react-helmet": "^3.10.0",
+    "gatsby-plugin-sass": "^2.8.0",
+    "gatsby-plugin-typography": "^2.12.0",
+    "gatsby-remark-emojis": "^0.3.3",
+    "gatsby-source-filesystem": "^2.11.1",
+    "gatsby-transformer-remark": "^2.16.1",
+    "jquery": "^3.6.0",
+    "node-sass": "^4.14.1",
+    "react": "^16.14.0",
+    "react-bootstrap": "^1.6.1",
+    "react-dom": "^16.14.0",
+    "react-helmet": "^5.2.1",
+    "react-typography": "^0.16.20",
+    "sass": "^1.36.0",
+    "typescript": "^3.9.10",
+    "typography": "^0.16.21",
+    "typography-theme-fairy-gates": "^0.16.19",
+    "typography-theme-kirkham": "^0.16.19"
+  },
+  "devDependencies": {
+    "gatsby-image": "^2.11.0",
+    "gatsby-plugin-sharp": "^2.14.4",
+    "gatsby-transformer-sharp": "^2.12.1",
+    "prettier": "^1.19.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.ipa.amiosec.co.uk/stem/stem-command-centre"
+  },
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  }
+}
